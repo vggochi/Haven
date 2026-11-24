@@ -1,13 +1,21 @@
-# HAVEN
-### Every voice deserves to be understood.
+# 💙 HAVEN
+### *Every voice deserves to be understood.*
 
-**Plataforma Inteligente de Comunicação e Acessibilidade em Libras**
+<p align="center">
 
-> Documentação geral do projeto — TCC
+**🌐 Plataforma Inteligente de Comunicação e Acessibilidade em Libras**
+
+</p>
+
+<p align="center">
+
+♿ Inclusão • 🤟 Libras • 🧠 Inteligência Artificial • 💬 Comunicação
+
+</p>
 
 ---
 
-# 1. Sobre o projeto
+# 📖 1. Sobre o projeto
 
 O **HAVEN** é uma plataforma tecnológica voltada à acessibilidade e à comunicação entre pessoas surdas, pessoas com deficiência auditiva e pessoas ouvintes que não dominam a Língua Brasileira de Sinais (Libras).
 
@@ -15,16 +23,16 @@ A proposta é desenvolver um ambiente digital que utilize tecnologias de reconhe
 
 O sistema pretende oferecer ferramentas de tradução, consulta de sinais, aprendizagem de Libras e acompanhamento das atividades dos usuários.
 
-O HAVEN busca reduzir barreiras de comunicação em ambientes como:
+🎯 **O HAVEN busca reduzir barreiras de comunicação em ambientes como:**
 
-- Hospitais e unidades de saúde.
-- Escolas e instituições de ensino.
-- Estabelecimentos comerciais.
-- Órgãos públicos.
-- Ambientes profissionais.
-- Situações cotidianas.
+- 🏥 Hospitais e unidades de saúde.
+- 🏫 Escolas e instituições de ensino.
+- 🛍️ Estabelecimentos comerciais.
+- 🏛️ Órgãos públicos.
+- 💼 Ambientes profissionais.
+- 🌎 Situações cotidianas.
 
-## 1.1. Problema identificado
+## 🔎 1.1. Problema identificado
 
 A comunicação entre pessoas surdas que utilizam Libras e pessoas ouvintes que não conhecem essa língua ainda representa uma barreira significativa.
 
@@ -32,23 +40,23 @@ Em muitos ambientes, a ausência de pessoas capacitadas em Libras dificulta o at
 
 Embora existam dicionários digitais e ferramentas de aprendizagem, ainda existe espaço para desenvolver soluções que integrem consulta de sinais, reconhecimento visual, tradução e aprendizagem em uma única plataforma.
 
-## 1.2. Solução proposta
+## 💡 1.2. Solução proposta
 
 O HAVEN pretende reunir recursos de acessibilidade em uma plataforma integrada, permitindo:
 
-- Reconhecer sinais de Libras por meio de uma câmera, dentro de um vocabulário e escopo de reconhecimento definidos.
-- Converter textos em representações visuais de sinais.
-- Consultar um dicionário digital de Libras.
-- Aprender novos sinais por meio de módulos e exercícios.
-- Armazenar o histórico de traduções.
-- Salvar sinais favoritos.
-- Acompanhar o progresso de aprendizagem.
+- 🤟 Reconhecer sinais de Libras por meio de uma câmera, dentro de um vocabulário e escopo de reconhecimento definidos.
+- 📝 Converter textos em representações visuais de sinais.
+- 📚 Consultar um dicionário digital de Libras.
+- 🎓 Aprender novos sinais por meio de módulos e exercícios.
+- 🕘 Armazenar o histórico de traduções.
+- ⭐ Salvar sinais favoritos.
+- 📈 Acompanhar o progresso de aprendizagem.
 
-## 1.3. Objetivo geral
+## 🎯 1.3. Objetivo geral
 
 Desenvolver uma plataforma inteligente de acessibilidade que utilize recursos tecnológicos para facilitar a comunicação em Libras e ampliar o acesso à informação e à aprendizagem.
 
-## 1.4. Objetivos específicos
+## 📌 1.4. Objetivos específicos
 
 - Desenvolver uma interface acessível e intuitiva.
 - Implementar um sistema de cadastro e autenticação.
@@ -62,38 +70,37 @@ Desenvolver uma plataforma inteligente de acessibilidade que utilize recursos te
 
 ---
 
-# 2. Identidade do projeto
+# 🎨 2. Identidade do projeto
 
-**Nome:** HAVEN
+| Característica | Definição |
+|---|---|
+| 💙 Nome | HAVEN |
+| ✨ Slogan | Every voice deserves to be understood. |
+| 🧩 Categoria | Tecnologia, acessibilidade, saúde e qualidade de vida |
+| 🤝 Conceito | Comunicação, inclusão, autonomia e acessibilidade |
 
-**Slogan:** Every voice deserves to be understood.
+## 🖌️ 2.1. Identidade visual
 
-**Categoria:** Tecnologia, acessibilidade, saúde e qualidade de vida.
+A identidade visual busca transmitir confiança, modernidade, simplicidade e acessibilidade.
 
-**Conceito:** Comunicação, inclusão, autonomia e acessibilidade.
-
-## 2.1. Identidade visual
-
-Paleta inicial proposta:
+**Paleta de cores:**
 
 | Cor | Código | Aplicação |
 |---|---|---|
-| Midnight | `#101C35` | Fundo principal e elementos institucionais |
-| Electric Blue | `#246BFD` | Botões e destaques |
-| Ice | `#EAF2FF` | Fundos secundários |
-| White | `#FFFFFF` | Textos e superfícies |
+| 🌌 Midnight | `#101C35` | Fundo principal e elementos institucionais |
+| 🔵 Electric Blue | `#246BFD` | Botões e destaques |
+| 🧊 Ice | `#EAF2FF` | Fundos secundários |
+| ⚪ White | `#FFFFFF` | Textos e superfícies |
 
 **Tipografia sugerida:**
 
-- Sora: títulos.
-- Inter: textos e conteúdo.
-- Manrope: indicadores e números.
-
-A interface deve transmitir confiança, modernidade, simplicidade e acessibilidade.
+- Sora — títulos.
+- Inter — textos e conteúdo.
+- Manrope — indicadores e números.
 
 ---
 
-# 3. Público-alvo
+# 👥 3. Público-alvo
 
 O HAVEN é destinado principalmente a:
 
@@ -105,13 +112,13 @@ O HAVEN é destinado principalmente a:
 6. Estabelecimentos de saúde.
 7. Organizações que desejam melhorar sua acessibilidade.
 
-A experiência deve considerar diferentes níveis de familiaridade com tecnologia.
+A experiência deverá considerar diferentes níveis de familiaridade com tecnologia.
 
 ---
 
-# 4. Funcionalidades principais
+# 🚀 4. Funcionalidades principais
 
-## 4.1. Cadastro e autenticação
+## 🔐 4.1. Cadastro e autenticação
 
 O usuário poderá:
 
@@ -123,13 +130,13 @@ O usuário poderá:
 - Definir seu nível de conhecimento em Libras.
 - Configurar preferências da plataforma.
 
-A autenticação será realizada pelo Supabase Auth.
+**Tecnologia:** Supabase Auth.
 
-## 4.2. Tradutor: Libras para Português
+## 🤟 4.2. Tradutor: Libras para Português
 
 Essa funcionalidade permitirá utilizar a câmera para capturar movimentos das mãos e reconhecer sinais dentro do vocabulário suportado pelo modelo.
 
-Fluxo esperado:
+**Fluxo esperado:**
 
 1. O usuário acessa o tradutor.
 2. Autoriza o acesso à câmera.
@@ -139,26 +146,24 @@ Fluxo esperado:
 6. O usuário poderá ouvir o resultado por síntese de voz.
 7. A tradução poderá ser salva no histórico.
 
-Recursos previstos:
+**Recursos previstos:**
 
-- Captura pela câmera.
-- Detecção de mãos.
-- Identificação de sinais.
-- Apresentação do resultado.
-- Indicador de reconhecimento, quando disponível.
-- Reprodução de texto em áudio.
-- Repetição da captura.
-- Feedback e correção.
+- 📷 Captura pela câmera.
+- ✋ Detecção de mãos.
+- 🧠 Identificação de sinais.
+- 💬 Apresentação do resultado.
+- 📊 Indicador de reconhecimento, quando disponível.
+- 🔊 Reprodução de texto em áudio.
+- 🔄 Repetição da captura.
+- 📝 Feedback e correção.
 
-**Importante:** Libras é uma língua natural com gramática própria. Reconhecer posições das mãos isoladamente não equivale a traduzir Libras. O projeto deverá considerar movimento, contexto, expressões faciais e outros elementos linguísticos.
+> ⚠️ **Importante:** Libras é uma língua natural com gramática própria. Reconhecer posições das mãos isoladamente não equivale a traduzir Libras. O projeto deverá considerar movimento, contexto, expressões faciais e outros elementos linguísticos. O primeiro protótipo trabalhará com um vocabulário controlado e validado por pessoas fluentes em Libras.
 
-O primeiro protótipo deverá trabalhar com um vocabulário controlado e validado por pessoas fluentes em Libras.
-
-## 4.3. Tradutor: Português para Libras
+## ✍️ 4.3. Tradutor: Português para Libras
 
 Essa funcionalidade permitirá inserir uma frase ou palavra em português e visualizar sua representação em Libras.
 
-Fluxo esperado:
+**Fluxo esperado:**
 
 1. O usuário digita um texto.
 2. O sistema processa a entrada.
@@ -166,9 +171,7 @@ Fluxo esperado:
 4. Apresenta os sinais por meio de vídeos, animações ou representações visuais.
 5. O usuário acompanha a sequência.
 
-A representação deve respeitar a estrutura linguística da Libras, e não simplesmente substituir cada palavra do português por um gesto.
-
-Recursos previstos:
+**Recursos previstos:**
 
 - Campo de texto.
 - Processamento da frase.
@@ -177,26 +180,28 @@ Recursos previstos:
 - Reprodução das demonstrações.
 - Possibilidade de repetir a sequência.
 
-## 4.4. Dicionário de Libras
+A representação deverá respeitar a estrutura linguística da Libras, e não simplesmente substituir cada palavra do português por um gesto.
+
+## 📚 4.4. Dicionário de Libras
 
 O dicionário será uma das principais áreas do HAVEN.
 
 A proposta é disponibilizar uma biblioteca organizada de sinais, com informações sobre significado, categorias, exemplos e demonstrações visuais.
 
-Recursos:
+**Recursos:**
 
-- Busca por palavra.
-- Busca por categoria.
-- Busca alfabética.
-- Busca por configuração de mão.
-- Consulta de significados.
-- Exemplos de utilização.
-- Classe gramatical.
-- Vídeos demonstrativos.
-- Variações regionais.
-- Sinais favoritos.
+- 🔎 Busca por palavra.
+- 🗂️ Busca por categoria.
+- 🔤 Busca alfabética.
+- ✋ Busca por configuração de mão.
+- 📖 Consulta de significados.
+- 💬 Exemplos de utilização.
+- 📝 Classe gramatical.
+- 🎥 Vídeos demonstrativos.
+- 🌎 Variações regionais.
+- ⭐ Sinais favoritos.
 
-### Referências externas
+### 🔗 Referências externas
 
 **Dicionário de Libras do INES**
 
@@ -227,13 +232,13 @@ Recursos de referência:
 
 Esses dicionários servirão como referência para o desenvolvimento do módulo.
 
-**Atenção aos direitos de uso:** não copiar automaticamente vídeos, imagens ou descrições dos sites. É necessário verificar as licenças, permissões e condições de utilização. Sempre que possível, utilizar conteúdo próprio ou autorizado.
+> ⚖️ **Direitos de uso:** não copiar automaticamente vídeos, imagens ou descrições dos sites. É necessário verificar as licenças, permissões e condições de utilização. Sempre que possível, utilizar conteúdo próprio ou autorizado.
 
-## 4.5. Aprendizagem de Libras
+## 🎓 4.5. Aprendizagem de Libras
 
 O módulo de aprendizagem permitirá que usuários estudem Libras de forma organizada.
 
-Recursos:
+**Recursos:**
 
 - Módulos de aprendizagem.
 - Lições.
@@ -245,22 +250,24 @@ Recursos:
 - Acompanhamento do progresso.
 - Histórico de resultados.
 
-Exemplo de organização:
+**Exemplo de organização:**
 
-- Módulo 1: Introdução à Libras.
-- Módulo 2: Alfabeto manual.
-- Módulo 3: Números.
-- Módulo 4: Cumprimentos.
-- Módulo 5: Família.
-- Módulo 6: Saúde.
-- Módulo 7: Educação.
-- Módulo 8: Situações cotidianas.
+| Módulo | Conteúdo |
+|---|---|
+| 01 | Introdução à Libras |
+| 02 | Alfabeto manual |
+| 03 | Números |
+| 04 | Cumprimentos |
+| 05 | Família |
+| 06 | Saúde |
+| 07 | Educação |
+| 08 | Situações cotidianas |
 
-## 4.6. Histórico de traduções
+## 🕘 4.6. Histórico de traduções
 
 O usuário poderá consultar suas traduções anteriores.
 
-Informações:
+Informações armazenadas:
 
 - Tipo de tradução.
 - Conteúdo original.
@@ -269,13 +276,13 @@ Informações:
 - Duração do processamento.
 - Status.
 
-## 4.7. Favoritos
+## ⭐ 4.7. Favoritos
 
 Permite salvar sinais para consulta posterior.
 
 Cada usuário terá sua própria lista de favoritos.
 
-## 4.8. Feedback das traduções
+## 💬 4.8. Feedback das traduções
 
 O usuário poderá:
 
@@ -288,13 +295,13 @@ Esses dados poderão auxiliar na avaliação e melhoria do sistema.
 
 ---
 
-# 5. Tecnologias previstas
+# 🛠️ 5. Tecnologias utilizadas e previstas
 
-A arquitetura tecnológica inicial será composta pelas seguintes ferramentas.
+A arquitetura tecnológica inicial será composta pelas seguintes ferramentas:
 
 | Tecnologia | Utilização |
 |---|---|
-| React | Desenvolvimento da interface |
+| ⚛️ React | Desenvolvimento da interface |
 | JavaScript | Lógica da aplicação |
 | HTML5 | Estrutura das páginas |
 | CSS3 | Estilização |
@@ -302,14 +309,14 @@ A arquitetura tecnológica inicial será composta pelas seguintes ferramentas.
 | PostgreSQL | Banco de dados relacional |
 | Supabase Auth | Cadastro e autenticação |
 | Supabase Storage | Armazenamento de arquivos |
-| Python | Desenvolvimento do reconhecimento visual |
+| 🐍 Python | Desenvolvimento do reconhecimento visual |
 | OpenCV | Processamento de imagens |
 | MediaPipe | Detecção e rastreamento das mãos |
 | TensorFlow ou PyTorch | Treinamento e execução de modelos de aprendizado de máquina |
 
 A biblioteca de machine learning ainda deverá ser escolhida conforme os testes e a arquitetura do modelo.
 
-## 5.1. Arquitetura geral
+## 🏗️ 5.1. Arquitetura geral
 
 O projeto terá três componentes principais:
 
@@ -325,23 +332,43 @@ Responsável por autenticação, persistência dos dados, relacionamentos, armaz
 
 Responsável pelo processamento de imagens, detecção das mãos e reconhecimento dos sinais suportados.
 
-Fluxo geral:
+**Fluxo geral:**
 
-Usuário → React → Serviço de reconhecimento → Resultado da tradução → Supabase.
+```text
+          👤 USUÁRIO
+               |
+               v
+        ⚛️ FRONTEND REACT
+               |
+       +-------+-------+
+       |               |
+       v               v
+  🐍 SERVIÇO       💙 SUPABASE
+ RECONHECIMENTO    AUTH + DATABASE
+       |
+       v
+  🧠 MODELO DE IA
+       |
+       v
+  💬 RESULTADO
+       |
+       v
+  📱 INTERFACE HAVEN
+```
 
 O frontend também poderá consultar diretamente o Supabase utilizando a chave pública apropriada e políticas RLS.
 
 ---
 
-# 6. Banco de dados — Supabase
+# 🗄️ 6. Banco de dados — Supabase
 
 O banco de dados utilizará PostgreSQL por meio do Supabase.
 
 A estrutura foi planejada para separar dicionário, usuários, traduções, aprendizagem e funcionalidades complementares.
 
-## 6.1. Tabelas planejadas
+## 📂 6.1. Tabelas planejadas
 
-### Módulo 1 — Dicionário
+### 📚 Módulo 1 — Dicionário
 
 | Tabela | Responsabilidade |
 |---|---|
@@ -350,7 +377,7 @@ A estrutura foi planejada para separar dicionário, usuários, traduções, apre
 | `variantes_sinais` | Variações regionais e linguísticas |
 | `videos_sinais` | Vídeos demonstrativos |
 
-### Módulo 2 — Usuários e traduções
+### 👤 Módulo 2 — Usuários e traduções
 
 | Tabela | Responsabilidade |
 |---|---|
@@ -360,7 +387,7 @@ A estrutura foi planejada para separar dicionário, usuários, traduções, apre
 | `favoritos` | Sinais salvos pelos usuários |
 | `feedback_traducoes` | Avaliações e correções |
 
-### Módulo 3 — Aprendizagem
+### 🎓 Módulo 3 — Aprendizagem
 
 | Tabela | Responsabilidade |
 |---|---|
@@ -370,16 +397,16 @@ A estrutura foi planejada para separar dicionário, usuários, traduções, apre
 | `resultados_exercicios` | Respostas e pontuações |
 | `progresso_aprendizado` | Progresso individual |
 
-### Módulo 4 — Sistema
+### ⚙️ Módulo 4 — Sistema
 
 | Tabela | Responsabilidade |
 |---|---|
 | `notificacoes` | Avisos e atualizações |
 | `historico_acessos` | Registro de atividades relevantes |
 
-**Total planejado: 16 tabelas.**
+<sub>📊 Total planejado: 16 tabelas.</sub>
 
-### 6.2. Ajuste importante no módulo do dicionário
+## 🧩 6.2. Ajustes previstos no módulo do dicionário
 
 O modelo inicial deverá ser refinado para representar corretamente a estrutura dos dicionários de Libras.
 
@@ -392,7 +419,7 @@ Recomendações:
 - Uma configuração de mão pode ser utilizada em diferentes sinais.
 - Vídeos e imagens devem ser armazenados no Supabase Storage, e suas referências ficam no PostgreSQL.
 
-Para isso, avaliar a inclusão de:
+**Estruturas adicionais propostas:**
 
 - `acepcoes_sinais`: diferentes significados de um sinal ou palavra.
 - `sinal_categorias`: relacionamento entre sinais e múltiplas categorias.
@@ -400,7 +427,7 @@ Para isso, avaliar a inclusão de:
 
 Essas três estruturas são propostas de evolução e ainda não fazem parte do SQL inicial de 16 tabelas.
 
-### 6.3. Relacionamentos principais
+## 🔗 6.3. Relacionamentos principais
 
 - `categorias_sinais` → `sinais`.
 - `sinais` → `variantes_sinais`.
@@ -420,7 +447,7 @@ Essas três estruturas são propostas de evolução e ainda não fazem parte do 
 - `perfis` → `notificacoes`.
 - `perfis` → `historico_acessos`.
 
-### 6.4. Segurança e RLS
+## 🔐 6.4. Segurança e RLS
 
 Todas as tabelas do schema `public` deverão possuir Row Level Security (RLS) ativado.
 
@@ -437,15 +464,15 @@ Regras gerais:
 
 O acesso deve ser validado por propriedade dos registros, não apenas pelo fato de o usuário estar autenticado.
 
-**Importante:** a chave `service_role` ou qualquer chave secreta nunca deve ser exposta no frontend.
+> 🔒 A chave `service_role` ou qualquer chave secreta nunca deve ser exposta no frontend.
 
 ---
 
-# 7. Armazenamento — Supabase Storage
+# ☁️ 7. Armazenamento — Supabase Storage
 
 O Supabase Storage será utilizado para arquivos e mídias.
 
-Buckets sugeridos:
+**Buckets sugeridos:**
 
 | Bucket | Conteúdo |
 |---|---|
@@ -461,9 +488,7 @@ Vídeos públicos autorizados podem ter leitura pública. Arquivos privados de u
 
 ---
 
-# 8. Estrutura sugerida do projeto
-
-Uma organização inicial possível:
+# 📁 8. Estrutura sugerida do projeto
 
 ```text
 HAVEN/
@@ -526,13 +551,13 @@ HAVEN/
 └── README.md
 ```
 
-Essa é uma estrutura sugerida. Ela poderá ser adaptada à organização real dos arquivos durante o desenvolvimento.
+📌 Essa é uma estrutura sugerida. Ela poderá ser adaptada à organização real dos arquivos durante o desenvolvimento.
 
 ---
 
-# 9. Requisitos para executar o projeto
+# 💻 9. Requisitos para executar o projeto
 
-## 9.1. Ferramentas necessárias
+## 🧰 9.1. Ferramentas necessárias
 
 - Node.js em versão LTS compatível com as dependências escolhidas.
 - npm.
@@ -543,7 +568,7 @@ Essa é uma estrutura sugerida. Ela poderá ser adaptada à organização real d
 - Python 3.11 ou versão compatível com as bibliotecas selecionadas.
 - Ambiente com câmera para testar o reconhecimento visual.
 
-## 9.2. Configuração do frontend
+## ⚛️ 9.2. Configuração do frontend
 
 Instalar as dependências:
 
@@ -576,7 +601,7 @@ Gerar versão de produção:
 npm run build
 ```
 
-## 9.3. Configuração do Supabase
+## 💙 9.3. Configuração do Supabase
 
 1. Criar um projeto no Supabase.
 2. Configurar o PostgreSQL.
@@ -589,9 +614,7 @@ npm run build
 9. Inserir os primeiros dados do dicionário.
 10. Testar as operações com usuários diferentes.
 
-O projeto precisa de uma configuração adequada de autenticação, incluindo URLs de redirecionamento e confirmação de e-mail, se esse recurso for utilizado.
-
-## 9.4. Configuração do serviço Python
+## 🐍 9.4. Configuração do serviço Python
 
 Criar um ambiente virtual:
 
@@ -603,11 +626,11 @@ python -m venv venv
 
 Ativar no Windows:
 
-```bash
+```powershell
 venv\Scripts\activate
 ```
 
-Instalar as dependências definidas no projeto:
+Instalar as dependências:
 
 ```bash
 pip install -r requirements.txt
@@ -618,9 +641,9 @@ O arquivo `requirements.txt` deverá conter as versões efetivamente testadas da
 - OpenCV.
 - MediaPipe.
 - TensorFlow ou PyTorch.
-- FastAPI ou Flask, caso seja utilizada uma API Python.
+- FastAPI.
 
-Iniciar a API dependerá do framework escolhido. Por exemplo, com FastAPI:
+Iniciar a API com FastAPI:
 
 ```bash
 uvicorn main:app --reload
@@ -630,7 +653,7 @@ A API deverá receber os dados de entrada, processar os sinais e retornar result
 
 ---
 
-# 10. Reconhecimento de Libras e inteligência artificial
+# 🧠 10. Reconhecimento de Libras e inteligência artificial
 
 Essa é uma das partes tecnicamente mais importantes do HAVEN.
 
@@ -638,21 +661,21 @@ O reconhecimento visual não deve ser tratado apenas como identificação de ima
 
 A aplicação poderá utilizar:
 
-1. Captura de vídeo.
-2. Detecção de mãos.
-3. Identificação de pontos de referência das mãos.
-4. Extração de características espaciais.
-5. Análise temporal dos movimentos.
-6. Classificação dos sinais suportados.
-7. Conversão dos resultados para uma representação textual.
+1. 📷 Captura de vídeo.
+2. ✋ Detecção de mãos.
+3. 📍 Identificação de pontos de referência das mãos.
+4. 📐 Extração de características espaciais.
+5. ⏱️ Análise temporal dos movimentos.
+6. 🧠 Classificação dos sinais suportados.
+7. 💬 Conversão dos resultados para uma representação textual.
 
-## 10.1. MediaPipe
+## ✋ 10.1. MediaPipe
 
 Pode ser utilizado para detectar mãos e extrair pontos de referência.
 
 Esses pontos poderão servir como entrada para um modelo de reconhecimento.
 
-## 10.2. OpenCV
+## 🎥 10.2. OpenCV
 
 Pode auxiliar em:
 
@@ -662,7 +685,7 @@ Pode auxiliar em:
 - Pré-processamento.
 - Integração com a câmera.
 
-## 10.3. Modelo de reconhecimento
+## 🤖 10.3. Modelo de reconhecimento
 
 O modelo deverá ser treinado ou adaptado utilizando dados de sinais devidamente autorizados.
 
@@ -678,7 +701,7 @@ O conjunto de dados deverá considerar:
 
 Para um primeiro protótipo, recomenda-se trabalhar com um conjunto limitado de sinais, validar a qualidade e expandir gradualmente.
 
-## 10.4. Limitações e cuidados
+## ⚠️ 10.4. Limitações e cuidados
 
 O HAVEN não deve afirmar que traduz qualquer conversa em Libras de maneira perfeita.
 
@@ -692,30 +715,28 @@ A plataforma deve auxiliar a comunicação, sem substituir intérpretes profissi
 
 ---
 
-# 11. Interface e telas previstas
+# 🖥️ 11. Interface e telas previstas
 
 A interface deverá seguir uma identidade visual consistente, com navegação simples e foco na acessibilidade.
 
-Telas planejadas:
-
 | Tela | Função |
 |---|---|
-| Landing Page | Apresentação do HAVEN |
-| Login | Acesso à conta |
-| Cadastro | Criação de conta |
-| Dashboard | Painel principal |
-| Libras → Texto | Reconhecimento pela câmera |
-| Texto → Libras | Conversão e demonstração visual |
-| Dicionário | Consulta de sinais |
-| Detalhes do sinal | Informações e vídeos |
-| Aprendizagem | Módulos e lições |
-| Exercícios | Atividades práticas |
-| Histórico | Traduções anteriores |
-| Favoritos | Sinais salvos |
-| Perfil | Dados e preferências |
-| Configurações | Ajustes de acessibilidade |
+| 🏠 Landing Page | Apresentação do HAVEN |
+| 🔐 Login | Acesso à conta |
+| 📝 Cadastro | Criação de conta |
+| 📊 Dashboard | Painel principal |
+| 🤟 Libras → Texto | Reconhecimento pela câmera |
+| ✍️ Texto → Libras | Conversão e demonstração visual |
+| 📚 Dicionário | Consulta de sinais |
+| 🔎 Detalhes do sinal | Informações e vídeos |
+| 🎓 Aprendizagem | Módulos e lições |
+| 🧩 Exercícios | Atividades práticas |
+| 🕘 Histórico | Traduções anteriores |
+| ⭐ Favoritos | Sinais salvos |
+| 👤 Perfil | Dados e preferências |
+| ⚙️ Configurações | Ajustes de acessibilidade |
 
-## 11.1. Dashboard
+## 📊 11.1. Dashboard
 
 O painel principal deverá apresentar:
 
@@ -727,7 +748,7 @@ O painel principal deverá apresentar:
 - Últimas traduções.
 - Sinais favoritos.
 
-## 11.2. Acessibilidade da interface
+## ♿ 11.2. Acessibilidade da interface
 
 A plataforma deverá considerar:
 
@@ -743,7 +764,7 @@ A plataforma deverá considerar:
 
 ---
 
-# 12. Segurança e privacidade
+# 🔒 12. Segurança e privacidade
 
 O HAVEN poderá lidar com informações pessoais, imagens, vídeos e registros de uso.
 
@@ -760,15 +781,15 @@ Portanto, será necessário:
 - Evitar o envio de informações sensíveis desnecessárias.
 - Seguir a LGPD.
 
-As gravações da câmera não deverão ser armazenadas automaticamente. O processamento deve priorizar a minimização de dados.
+📌 As gravações da câmera não deverão ser armazenadas automaticamente. O processamento deve priorizar a minimização de dados.
 
 ---
 
-# 13. Etapas de desenvolvimento
+# 🗺️ 13. Etapas de desenvolvimento
 
 O projeto deverá ser desenvolvido em etapas.
 
-## Etapa 1 — Planejamento e documentação
+## 📝 Etapa 1 — Planejamento e documentação
 
 - Definir requisitos.
 - Finalizar identidade visual.
@@ -776,7 +797,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Modelar o banco de dados.
 - Criar protótipos no Figma.
 
-## Etapa 2 — Backend e banco de dados
+## 🗄️ Etapa 2 — Backend e banco de dados
 
 - Criar projeto Supabase.
 - Criar tabelas.
@@ -786,7 +807,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Criar buckets do Storage.
 - Inserir dados iniciais.
 
-## Etapa 3 — Frontend
+## 🎨 Etapa 3 — Frontend
 
 - Criar estrutura React.
 - Desenvolver identidade visual.
@@ -797,7 +818,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Implementar aprendizagem.
 - Integrar histórico e favoritos.
 
-## Etapa 4 — Serviço de reconhecimento
+## 🧠 Etapa 4 — Serviço de reconhecimento
 
 - Configurar Python.
 - Integrar OpenCV.
@@ -807,7 +828,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Criar API.
 - Integrar a API ao frontend.
 
-## Etapa 5 — Integração
+## 🔗 Etapa 5 — Integração
 
 - Integrar autenticação.
 - Integrar dicionário.
@@ -816,7 +837,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Integrar aprendizagem.
 - Integrar armazenamento.
 
-## Etapa 6 — Testes e validação
+## 🧪 Etapa 6 — Testes e validação
 
 - Testar cadastro e login.
 - Testar permissões.
@@ -828,7 +849,7 @@ O projeto deverá ser desenvolvido em etapas.
 - Validar os sinais com pessoas fluentes em Libras.
 - Corrigir problemas de acessibilidade.
 
-## Etapa 7 — Finalização
+## 🏁 Etapa 7 — Finalização
 
 - Preparar demonstração.
 - Documentar resultados.
@@ -838,11 +859,11 @@ O projeto deverá ser desenvolvido em etapas.
 
 ---
 
-# 14. Testes necessários
+# 🧪 14. Testes necessários
 
 O projeto deverá possuir testes funcionais e de segurança.
 
-### Autenticação
+### 🔐 Autenticação
 
 - Cadastro de usuário.
 - Login.
@@ -850,7 +871,7 @@ O projeto deverá possuir testes funcionais e de segurança.
 - Recuperação de senha.
 - Persistência da sessão.
 
-### Banco de dados
+### 🗄️ Banco de dados
 
 - Inserção de sinais.
 - Consulta de categorias.
@@ -859,14 +880,14 @@ O projeto deverá possuir testes funcionais e de segurança.
 - Consulta de favoritos.
 - Registro de progresso.
 
-### Segurança
+### 🛡️ Segurança
 
 - Um usuário não pode acessar traduções de outro.
 - Um usuário não pode alterar o perfil de outro.
 - Conteúdos não publicados não podem ser consultados publicamente.
 - Usuários não podem manipular pontuações indevidamente.
 
-### Reconhecimento
+### 🤟 Reconhecimento
 
 - Testar sinais individuais.
 - Testar diferentes velocidades.
@@ -877,7 +898,7 @@ O projeto deverá possuir testes funcionais e de segurança.
 
 ---
 
-# 15. Pontos que ainda precisam ser definidos
+# 📌 15. Pontos que ainda precisam ser definidos
 
 As decisões abaixo deverão ser tomadas durante o desenvolvimento:
 
@@ -896,157 +917,49 @@ Essas decisões não devem ser consideradas implementadas até que sejam desenvo
 
 ---
 
-# 16. Estado atual do projeto
+# 📈 16. Estado atual do projeto
 
-**Status geral: planejamento e estruturação do backend.**
+**Status geral: estruturação e desenvolvimento inicial do backend.**
 
-Até o momento, foram definidos:
+## ✅ Alterações realizadas
 
-- Nome HAVEN.
-- Slogan.
-- Proposta e objetivos.
-- Público-alvo.
-- Funcionalidades principais.
-- Identidade visual inicial.
-- Tecnologias previstas.
-- Referências de dicionários.
-- Estrutura inicial do banco de dados.
-- Estratégia de RLS.
-- Organização inicial dos módulos.
+- [x] Ambiente Python 3.13 configurado.
+- [x] Dependências do ambiente instaladas.
+- [x] NumPy adicionado.
+- [x] Scikit-learn adicionado.
+- [x] Joblib adicionado.
+- [x] Arquivo principal `main.py` criado.
+- [x] Aplicação FastAPI inicializada.
+- [x] Configuração CORS implementada no `main.py`.
+- [x] Rota principal `/` respondendo.
+- [x] Rota `/api/health` criada.
+- [x] Organização inicial dos módulos definida.
+- [x] Rota de recebimento de landmarks adicionada ao código de traduções.
+- [x] Modelos de validação de landmarks definidos.
+- [x] Serviço inicial `recognition.py` criado.
 
-### Banco de dados
+## 🟡 Em andamento ou aguardando validação
 
-Foi elaborado um SQL inicial com 16 tabelas:
+- [ ] Conferência de todas as rotas na documentação `/docs`.
+- [ ] Testes de autenticação e validação de token.
+- [ ] Testes do endpoint de landmarks.
+- [ ] Testes de integração com Supabase.
+- [ ] Integração da câmera com o frontend.
+- [ ] Integração do MediaPipe.
 
-1. `categorias_sinais`
-2. `sinais`
-3. `variantes_sinais`
-4. `videos_sinais`
-5. `perfis`
-6. `traducoes`
-7. `itens_traducao`
-8. `favoritos`
-9. `modulos_aprendizado`
-10. `licoes`
-11. `exercicios`
-12. `resultados_exercicios`
-13. `progresso_aprendizado`
-14. `feedback_traducoes`
-15. `notificacoes`
-16. `historico_acessos`
+## ⏳ Ainda não implementado
 
-**Atenção:** o SQL foi elaborado, mas não há confirmação de que tenha sido executado no Supabase. Também é necessário revisar o modelo do dicionário para contemplar acepções, múltiplas categorias e configurações de mão.
+- [ ] Modelo treinado para reconhecimento do alfabeto.
+- [ ] Reconhecimento real de sinais.
+- [ ] Reconhecimento de sinais isolados.
+- [ ] Reconhecimento de sequências e frases.
+- [ ] Tradução gramaticalmente adequada entre português e Libras.
+- [ ] Síntese de voz integrada.
+- [ ] Validação de precisão com usuários.
 
-Não considerar nenhuma dessas funcionalidades como concluída apenas porque sua estrutura foi planejada.
+> 📍 **Último teste confirmado:** a rota principal respondeu corretamente em `http://127.0.0.1:8000`, retornando a mensagem de que a API está funcionando. Isso confirma a inicialização da aplicação, mas não comprova que todos os módulos e integrações já foram testados.
 
----
-
-# 17. Orientações para continuar o projeto
-
-Ao continuar o desenvolvimento do HAVEN, seguir estas diretrizes:
-
-1. Preservar o nome e a identidade visual do projeto.
-2. Não alterar funcionalidades existentes sem necessidade.
-3. Priorizar uma arquitetura organizada e escalável.
-4. Não criar tabelas duplicadas.
-5. Manter relacionamentos coerentes no PostgreSQL.
-6. Aplicar RLS em todas as tabelas expostas.
-7. Não expor chaves secretas no frontend.
-8. Desenvolver funcionalidades de forma incremental.
-9. Testar cada integração antes de avançar.
-10. Validar os conteúdos de Libras com pessoas qualificadas.
-11. Não afirmar que uma tradução funciona perfeitamente sem testes.
-12. Manter a documentação atualizada.
-
-Sempre que uma funcionalidade for implementada, atualizar este README para refletir o estado real do projeto.
-
----
-
-# 18. Visão final do HAVEN
-
-O HAVEN pretende ser mais do que um dicionário digital.
-
-A proposta é construir um ambiente integrado de comunicação e aprendizagem, combinando acessibilidade, tecnologia e inteligência artificial.
-
-O projeto reúne três pilares:
-
-**COMUNICAR** — Facilitar a comunicação entre pessoas surdas e ouvintes.
-
-**APRENDER** — Tornar o aprendizado de Libras mais acessível.
-
-**CONECTAR** — Aproximar pessoas e reduzir barreiras de comunicação.
-
-> HAVEN — Every voice deserves to be understood.
-
----
-
-# RELATÓRIO TÉCNICO — HAVEN
-## Desenvolvimento do backend e reconhecimento de Libras
-
-**Projeto:** HAVEN  
-**Área:** Tecnologia, acessibilidade e comunicação  
-**Objetivo:** Desenvolver uma plataforma que facilite a comunicação entre pessoas surdas e ouvintes por meio de recursos de tradução e reconhecimento de Libras.
-
----
-
-# 1. Objetivo do desenvolvimento atual
-
-Nesta etapa, o foco foi estruturar e iniciar o backend do HAVEN, conectar a aplicação ao Supabase e preparar a infraestrutura necessária para implementar o reconhecimento de sinais de Libras utilizando a câmera.
-
-A arquitetura está sendo desenvolvida com Python, FastAPI e Supabase, enquanto o reconhecimento visual será integrado ao frontend por meio de tecnologia de visão computacional.
-
-# 2. Alterações realizadas
-
-## 2.1. Configuração do ambiente Python
-
-Foi configurado o ambiente virtual do backend, utilizando Python 3.13.
-
-Também foram atualizadas as dependências do projeto no arquivo `requirements.txt`.
-
-**Dependências adicionadas:**
-
-| Biblioteca | Finalidade |
-|---|---|
-| NumPy | Operações matemáticas e processamento de dados numéricos |
-| Scikit-learn | Treinamento e classificação de sinais |
-| Joblib | Salvamento e carregamento de modelos treinados |
-
-**Comando utilizado:**
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-A instalação foi concluída com sucesso.
-
-## 2.2. Criação do arquivo principal `main.py`
-
-Foi criado o arquivo `main.py`, responsável por inicializar a API do HAVEN.
-
-Foram implementados:
-
-- Inicialização da aplicação FastAPI.
-- Configuração do CORS para permitir comunicação com o frontend.
-- Rota principal `/`.
-- Rota de verificação `/api/health`.
-- Importação e registro dos módulos de autenticação, perfil, preferências, traduções, aulas, progresso e dashboard.
-
-**Resultado:** a API iniciou corretamente e retornou:
-
-```json
-{
-  "success": true,
-  "name": "HAVEN API",
-  "message": "API funcionando corretamente.",
-  "version": "1.0.0"
-}
-```
-
-Isso confirma que a aplicação principal está respondendo.
-
-## 2.3. Organização da arquitetura
-
-Foi definida a seguinte organização para o backend:
+### 🐍 Estrutura técnica atual do backend
 
 ```text
 backend/
@@ -1082,188 +995,69 @@ backend/
         └── recognition.py
 ```
 
-Essa estrutura separa as responsabilidades da aplicação, facilitando futuras atualizações e manutenção.
+---
 
-## 2.4. Integração com Supabase
+# 🚀 17. Próximas atualizações
 
-Foi mantida a estrutura de comunicação com o Supabase por meio do arquivo:
+A sequência recomendada para continuar o desenvolvimento é:
 
-`app/services/supabase.py`
+| Ordem | Atualização | Prioridade |
+|---|---|---|
+| 01 | Conferir e testar todas as rotas da API | 🔴 Alta |
+| 02 | Testar autenticação e Supabase | 🔴 Alta |
+| 03 | Conectar a câmera ao frontend | 🔴 Alta |
+| 04 | Integrar MediaPipe | 🔴 Alta |
+| 05 | Enviar landmarks para o backend | 🔴 Alta |
+| 06 | Coletar exemplos reais do alfabeto manual | 🔴 Alta |
+| 07 | Treinar e avaliar o primeiro classificador | 🔴 Alta |
+| 08 | Reconhecer sinais isolados | 🟠 Média |
+| 09 | Desenvolver o reconhecimento de sequências | 🟠 Média |
+| 10 | Aprimorar o tradutor Português → Libras | 🟠 Média |
+| 11 | Integrar histórico e favoritos | 🟠 Média |
+| 12 | Finalizar testes e documentação | 🔴 Alta |
 
-Ele utiliza HTTPX para realizar requisições à API do Supabase.
+### 🎯 Próximo grande marco
 
-Também foram mantidas as configurações:
+Conectar a câmera do frontend ao backend, utilizando MediaPipe para extrair os pontos das mãos e enviar sequências de movimentos para a API.
 
-- URL do projeto.
-- Chave pública de acesso.
-- Variáveis de ambiente.
-- Autenticação por token.
+Depois disso, iniciar a coleta e o treinamento do primeiro modelo de reconhecimento do alfabeto manual.
 
-O arquivo `app/config.py` centraliza essas configurações.
+---
 
-## 2.5. Autenticação e segurança
+# 💙 18. Visão final do HAVEN
 
-Foi mantido o sistema de autenticação utilizando Supabase Auth.
+O HAVEN pretende ser mais do que um dicionário digital.
 
-As funcionalidades previstas nas rotas existentes incluem:
+A proposta é construir um ambiente integrado de comunicação e aprendizagem, combinando acessibilidade, tecnologia e inteligência artificial.
 
-- Cadastro de usuários.
-- Login.
-- Logout.
-- Consulta dos dados do usuário autenticado.
-- Validação do token de acesso.
+### Três pilares fundamentais
 
-O arquivo `app/security.py` verifica se a requisição possui um token Bearer válido antes de permitir o acesso às rotas protegidas.
+<sub>💬 COMUNICAR</sub>
 
-## 2.6. Atualização do sistema de traduções
+Facilitar a comunicação entre pessoas surdas e ouvintes.
 
-O arquivo `app/routes/translations.py` foi atualizado.
+<sub>📚 APRENDER</sub>
 
-As funcionalidades anteriores foram preservadas:
+Tornar o aprendizado de Libras mais acessível.
 
-- Tradução de texto para sinais.
-- Consulta do histórico de traduções.
-- Salvamento de traduções.
-- Exclusão de uma tradução.
-- Limpeza do histórico.
+<sub>🤝 CONECTAR</sub>
 
-Também foi criada uma nova rota:
+Aproximar pessoas e reduzir barreiras de comunicação.
 
-`POST /api/translations/sign-to-text/landmarks`
+---
 
-Essa rota prepara o backend para receber os pontos identificados pela câmera.
+<p align="center">
 
-## 2.7. Validação dos movimentos das mãos
+# 💙 HAVEN
 
-O arquivo `app/schemas/translations.py` recebeu novos modelos de validação:
+### *Every voice deserves to be understood.*
 
-- `LandmarkPoint`
-- `LandmarkFrame`
-- `SignLandmarksRequest`
+**Tecnologia para aproximar pessoas e tornar a comunicação mais acessível.**
 
-A estrutura considera:
+♿ Inclusão • 🤟 Comunicação • 🧠 Inovação
 
-- 21 pontos por mão.
-- Coordenadas tridimensionais X, Y e Z.
-- Identificação da mão esquerda.
-- Identificação da mão direita.
-- Sequências de até 120 frames.
-- Taxa de captura configurável entre 1 e 60 FPS.
+</p>
 
-Essa estrutura permitirá transmitir informações sobre os movimentos das mãos sem precisar enviar continuamente imagens completas ao backend.
+---
 
-## 2.8. Criação do serviço de reconhecimento
-
-Foi criado:
-
-`app/services/recognition.py`
-
-Esse serviço recebe os landmarks, valida a sequência e contabiliza:
-
-- Quantidade de frames recebidos.
-- Frames com mão esquerda identificada.
-- Frames com mão direita identificada.
-- Taxa de captura utilizada.
-
-O serviço também retorna o estado:
-
-`model_not_trained`
-
-Isso significa que a infraestrutura de recebimento está preparada, mas o classificador ainda não foi treinado.
-
-**Importante:** o HAVEN ainda não reconhece sinais reais por meio dessa rota. Nenhuma tradução é inventada enquanto não houver um modelo confiável.
-
-# 3. Situação atual do projeto
-
-| Componente | Situação |
-|---|---|
-| Ambiente Python 3.13 | Configurado |
-| Dependências | Instaladas |
-| FastAPI | Inicializado |
-| Arquivo main.py | Criado |
-| Configuração CORS | Implementada |
-| Integração Supabase | Estrutura existente |
-| Autenticação | Rotas existentes |
-| Histórico de traduções | Rotas existentes |
-| Recebimento de landmarks | Estruturado |
-| Validação dos pontos das mãos | Implementada |
-| Modelo de reconhecimento | Pendente |
-| Reconhecimento real de Libras | Pendente |
-| Integração da câmera com a API | Pendente |
-
-**Último teste realizado:** a rota principal respondeu corretamente em `http://127.0.0.1:8000`.
-
-# 4. Futuras atualizações
-
-As próximas atualizações serão divididas em etapas para garantir que o reconhecimento funcione corretamente.
-
-## ETAPA 1 — Integração da câmera com o frontend
-
-**Prioridade: alta**
-
-Implementar a comunicação entre a câmera do navegador e o backend.
-
-Funcionalidades:
-
-- Solicitação de permissão para acessar a câmera.
-- Inicialização e encerramento da captura.
-- Identificação das mãos em tempo real.
-- Extração dos 21 pontos de cada mão.
-- Envio dos landmarks para a API.
-- Exibição do estado da captura na interface.
-
-Tecnologia prevista: MediaPipe no frontend.
-
-## ETAPA 2 — Reconhecimento do alfabeto manual
-
-**Prioridade: alta**
-
-Desenvolver o primeiro modelo de inteligência artificial do HAVEN.
-
-O objetivo será reconhecer as letras do alfabeto manual de Libras.
-
-Funcionalidades:
-
-- Identificação das configurações das mãos.
-- Reconhecimento das letras.
-- Tratamento de variações de posição e orientação.
-- Reconhecimento de sinais que dependem de movimento, como J e Z.
-- Exibição da letra reconhecida.
-- Apresentação de uma estimativa de confiança do modelo.
-
-Será necessário utilizar exemplos reais e devidamente identificados para treinar e avaliar o modelo.
-
-## ETAPA 3 — Reconhecimento de sinais isolados
-
-**Prioridade: alta**
-
-Depois do alfabeto, será desenvolvido um vocabulário inicial de sinais.
-
-Exemplos de categorias:
-
-- Cumprimentos.
-- Expressões cotidianas.
-- Perguntas.
-- Sentimentos.
-- Necessidades básicas.
-- Comunicação em ambientes escolares.
-
-O modelo deverá considerar movimentos, orientação das mãos e informações corporais relevantes, não apenas posições estáticas dos dedos.
-
-## ETAPA 4 — Formação de palavras e frases
-
-**Prioridade: alta**
-
-Evoluir do reconhecimento de sinais individuais para sequências contínuas.
-
-Funcionalidades planejadas:
-
-- Identificação de sequências de sinais.
-- Reconhecimento de movimentos ao longo do tempo.
-- Formação de mensagens.
-- Organização dos sinais reconhecidos em texto.
-- Tratamento de pausas e trans
-
-**Documento de referência do projeto HAVEN — TCC.**
-
-Este documento representa o planejamento técnico e funcional inicial. As tecnologias, funcionalidades e estruturas descritas deverão ser ajustadas conforme a implementação, os testes e a validação do projeto.
+<sub>📄 Documento de referência do projeto HAVEN — TCC. Este README representa o planejamento técnico e funcional e o estado de desenvolvimento conhecido. As tecnologias, funcionalidades e estruturas descritas deverão ser ajustadas conforme a implementação, os testes e a validação do projeto.</sub>
